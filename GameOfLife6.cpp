@@ -24,7 +24,6 @@ void GameOfLife::initializePatterns() {
         {1, 1, 1}
     };
 
-    // Ajouter d'autres motifs ici si nécessaire
 }
 
 // Compte les voisins vivants avec grille torique
