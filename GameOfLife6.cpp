@@ -20,10 +20,6 @@ void GameOfLife::initializePatterns() {
         {1, 1, 1}
     };
 
-    patterns["blinker"] = {
-        {1, 1, 1}
-    };
-
 }
 
 // Compte les voisins vivants avec grille torique
